@@ -64,3 +64,4 @@ postgres
     # Password
     root
 ```
+# Ambiente_apache_php_admin_mysql_funcionou_na_minha
